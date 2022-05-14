@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "colors": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "net": "^1.0.2",
+    "readline-sync": "^1.4.10",
+    "screenshot-desktop": "^1.12.7"
+  },
+  "name": "nodesocks",
+  "version": "1.0.0",
+  "description": "simple sockets with nodejs",
+  "main": "hacker.js",
+  "scripts": {
+    "test": "node hacker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAllberto/NodeSocks.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "CarlosAllberto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosAllberto/NodeSocks/issues"
+  },
+  "homepage": "https://github.com/CarlosAllberto/NodeSocks#readme"
+}
